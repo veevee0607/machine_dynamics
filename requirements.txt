@@ -1,4 +1,13 @@
-numpy
-matplotlib
-scipy
-sympy
+jupyterlab==4.1
+
+numpy==2.2
+scipy==1.15.2
+
+matplotlib==3.10
+ipympl==0.9.5
+nbformat==5.10.3
+sympy==1.13.3
+
+ipycanvas==0.12.0
+
+pre-commit==3.3.3
